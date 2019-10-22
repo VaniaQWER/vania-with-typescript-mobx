@@ -1,0 +1,28 @@
+{
+  "name": "vania-tyescript-mobx",
+  "version": "1.0.0",
+  "description": "typescript mobx react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaniaQWER/with-typescript-mobx.git"
+  },
+  "keywords": [
+    "typescript",
+    "mobx",
+    "react",
+    "antd"
+  ],
+  "author": "vania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VaniaQWER/with-typescript-mobx/issues"
+  },
+  "homepage": "https://github.com/VaniaQWER/with-typescript-mobx#readme",
+  "dependencies": {
+    "antd": "^3.24.2"
+  }
+}
